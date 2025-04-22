@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I'm a former professional eSports player!
 
 
-## Tecnologias que domino:
+## Technologies that I use in my daily work:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40px"/>
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px"/>
 </p>
 
-## No meu dia a dia, utilizo algumas ferramentas e frameworks:
+## Other technologies and tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40px"/>
